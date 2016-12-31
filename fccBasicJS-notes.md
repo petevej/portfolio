@@ -650,7 +650,7 @@ if (j === 0) {
 // Change these values to test your function
 lookUpProfile("Harry", "likes");
 ```
-*Remember that while looping through all entries, it may be easy to test all kinds of conditions, but the difficult part is when the entry does not even exist, that's when you have to add a counter that iterates when there is a match only....
+\*Remember that while looping through all entries, it may be easy to test all kinds of conditions, but the difficult part is when the entry does not even exist, that's when you have to add a counter that iterates when there is a match only....
 ___
 ## 7. RANDOM NUMBER GENERATOR FUNCTION!!! WOOHOOO
 ```javascript
@@ -719,7 +719,7 @@ INVERSION!!!!! - yes, you are allowed to capitalize any regex selector and it wi
 Example: \s = white space, \S = anything that's not white space
 ```javascript
 // Setup
-var testString = "How many non-space characters are there in this sentence?;
+var testString = "How many non-space characters are there in this sentence?";
 // Expression
 var expression = /\S/g;
 // Testing
