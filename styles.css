@@ -93,7 +93,8 @@ body, html {
 
 .bg-home {
   padding-top: 20px;
-  background: url("https://lh3.googleusercontent.com/tT7K9POncoEPV8KzPeYg4F62LkKTS-8WNSX3V-NEebCTrYZUWgNKkNbayk8riwGnpVk7FznktKPCdxFEgxJz3WIpR0TMEvOYPA=w1920-h1080-rw-no") no-repeat center top fixed;
+/*  background: url("https://lh3.googleusercontent.com/tT7K9POncoEPV8KzPeYg4F62LkKTS-8WNSX3V-NEebCTrYZUWgNKkNbayk8riwGnpVk7FznktKPCdxFEgxJz3WIpR0TMEvOYPA=w1920-h1080-rw-no") no-repeat center top fixed; */
+  background: lavender;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
