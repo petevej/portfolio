@@ -16,4 +16,5 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 6. $ git push -f origin master
 
 ### How to fetch remote repo to local
-git fetch --prune
+1. $ cd /mnt/c/git/<repo-name>
+2. $ git pull https://github.com/petevej/portfolio.git master
