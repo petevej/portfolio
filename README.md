@@ -18,3 +18,6 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 ### How to fetch remote repo to local
 1. $ cd /mnt/c/git/<repo-name>
 2. $ git pull https://github.com/petevej/portfolio.git master
+
+### Stackbadge
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/petevej/frontend)
