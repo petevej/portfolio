@@ -19,5 +19,17 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 1. $ cd /mnt/c/git/<repo-name>
 2. $ git pull https://github.com/petevej/portfolio.git master
 
+### How to check and add/remove current remote
+
+- Check remote: git remote -v
+```
+pete@MAIN:/mnt/d/git/twitch-API$ git remote -v
+origin  https://github.com/petevej/twitch-stramer-API.git (fetch)
+origin  https://github.com/petevej/twitch-stramer-API.git (push)
+```
+- Remove remote: git remote rm destination
+
+- Verify removal: git remote -v
+
 ### Stackbadge
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/petevej/frontend)
