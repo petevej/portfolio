@@ -17,14 +17,16 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 #### Only fetch changes without merging to current branch
 
 - $ git fetch origin
-#### Fetch changes and merge to current branch (Pull)
+#### [Preferred] Fetch changes and merge to current branch (Pull)
 
 - $ git pull origin
 
 ### How to create and switch branch
 1. $ git branch MyBranch
-2. $
-
+2. $ git checkout MyBranch
+3. Make changes you need and commit them
+4. $ git checkout master
+5. $ git marge MyBranch
 
 ### How to push commits to github in bash
 1. $ cd /mnt/c/git/portfolio
