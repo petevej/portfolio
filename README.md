@@ -1,4 +1,5 @@
 # Portfolio
+
 ## Why am I doing this?
 As part of the journey to become the best full-stack developer I can be, my journey starts with front-end - <html/> and CSS. This portfolio site is carefully crafted with some bootstrap dependencies. As I progress into the realm of Javascript (where I hope to continue doing vanilla for as long as possible before moving into frameworks like AngularJS, Node.JS), the portfolio site will organically grow both in terms of content and quality. Thanks for visiting, and enjoy! :))
 
@@ -20,9 +21,11 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 ### How to update changes from remote repo to local folder
 1. $ cd /mnt/c/git/<repo-name>
 #### Only fetch changes without merging to current branch
-2a. $ git fetch origin
+
+- $ git fetch origin
 #### Fetch changes and merge to current branch (Pull)
-2b. $ git pull origin
+
+- $ git pull origin
 
 ### How to check and add/remove current remote
 
