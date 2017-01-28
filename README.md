@@ -9,15 +9,20 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 
 ### How to push commits to github from bash
 1. $ cd /mnt/c/git/portfolio
-2. $ git init
-3. $ git add .
-4. $ git commit -m 'commit comments'
-5. $ git remote add origin https://github.com/petevej/portfolio.git
-6. $ git push -f origin master
+2. $ git add .
+3. $ git commit -m 'commit comments'
+4. $ git push -f origin master
 
-### How to fetch remote repo to local
+### How to clone remote repo to local folder
+1. $ cd /mnt/c/git
+2. $ git clone https://github.com/petevej/portfolio.git
+
+### How to update changes from remote repo to local folder
 1. $ cd /mnt/c/git/<repo-name>
-2. $ git pull https://github.com/petevej/portfolio.git master
+#### Only fetch changes without merging to current branch
+2a. $ git fetch origin
+#### Fetch changes and merge to current branch (Pull)
+2b. $ git pull origin
 
 ### How to check and add/remove current remote
 
