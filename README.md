@@ -21,6 +21,11 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 
 - $ git pull origin
 
+### How to create and switch branch
+1. $ git branch MyBranch
+2. $
+
+
 ### How to push commits to github in bash
 1. $ cd /mnt/c/git/portfolio
 2. $ git add .
