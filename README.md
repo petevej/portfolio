@@ -8,12 +8,6 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 
 ## Notes on the development ecosystem
 
-### How to push commits to github from bash
-1. $ cd /mnt/c/git/portfolio
-2. $ git add .
-3. $ git commit -m 'commit comments'
-4. $ git push -f origin master
-
 ### How to clone remote repo to local folder
 1. $ cd /mnt/c/git
 2. $ git clone https://github.com/petevej/portfolio.git
@@ -26,6 +20,12 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 #### Fetch changes and merge to current branch (Pull)
 
 - $ git pull origin
+
+### How to push commits to github in bash
+1. $ cd /mnt/c/git/portfolio
+2. $ git add .
+3. $ git commit -m 'commit comments'
+4. $ git push -f origin master
 
 ### How to check and add/remove current remote
 
