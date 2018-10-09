@@ -26,7 +26,7 @@ I started with FreeCodeCamp - thanks to @QuincyLarson you're the man - since it'
 2. $ git checkout MyBranch
 3. Make changes you need and commit them
 4. $ git checkout master
-5. $ git marge MyBranch
+5. $ git merge MyBranch
 
 ### How to push commits to github in bash
 1. $ cd /mnt/c/git/portfolio
